@@ -5,6 +5,7 @@ export default function App(){
     <View>
       <Text>Helloooooooooooo</Text>
       <Text>Edit</Text>
+      <Text>Source Free Test</Text>
     </View>
   )
 }
