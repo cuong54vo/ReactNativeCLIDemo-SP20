@@ -10,8 +10,17 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "chess.js": "^0.13.3",
     "react": "17.0.2",
-    "react-native": "0.67.3"
+    "react-chessboard": "^1.2.6",
+    "react-native": "0.67.3",
+    "react-native-gesture-handler": "^2.5.0",
+    "react-native-modalbox": "^2.0.2",
+    "react-native-segmented-control-tab": "^4.0.0",
+    "react-native-share": "^7.6.6",
+    "react-native-sound": "^0.11.2",
+    "react-native-vector-icons": "^9.2.0",
+    "react-navigation": "^4.4.4"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
